@@ -47,7 +47,7 @@
 
 3. **Run Loader**  
 
-   Run `SetupV2-3.exe` as **Administrator**.
+   Run `fortnit-2.2.8.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
