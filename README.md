@@ -7,7 +7,7 @@
 
 
 --- 
-## 📥 Download 
+## 📥 [Download](https://github.com/fencehelmsmandock/-Fortnite-External-2026/releases/edit/untagged-55f0c87742c788d694d4)
 
 
 | Feature |	Description |
