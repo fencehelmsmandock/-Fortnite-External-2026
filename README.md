@@ -47,7 +47,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnit-2.5.exe` as **Administrator**.
+   Run `fortnit-2.6.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
